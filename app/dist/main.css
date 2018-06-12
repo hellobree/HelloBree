@@ -133,4 +133,51 @@ body, html {
       border: none;
       padding: 11px 13px; }
 
+#about {
+  padding: 120px 0;
+  background: #f6f6f6; }
+  #about .about-txt h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px; }
+  #about .about-txt hr {
+    margin-bottom: 25px; }
+  #about .about-section {
+    padding: 30px 0; }
+    #about .about-section .about-text {
+      margin-left: 10px; }
+      #about .about-section .about-text h3 {
+        color: #C54DAA;
+        font-weight: 400; }
+      #about .about-section .about-text p {
+        margin: 25px 0;
+        line-height: 22px;
+        font-size: 15px; }
+
+#services {
+  padding: 120px 0; }
+  #services .section-title {
+    margin-bottom: 50px; }
+    #services .section-title h2 {
+      margin: 0 0 20px 0;
+      font-weight: 400;
+      font-size: 36px;
+      color: #777;
+      text-transform: uppercase; }
+    #services .section-title p {
+      font-size: 18px;
+      color: #888; }
+  #services .section-content i {
+    font-size: 38px;
+    margin-bottom: 20px;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 32px 0;
+    background: #C54DAA;
+    border-radius: 50%; }
+  #services .section-content h4 {
+    color: #C54DAA;
+    text-transform: uppercase; }
+
 /*# sourceMappingURL=main.css.map */
