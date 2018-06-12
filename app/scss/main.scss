@@ -1,0 +1,13 @@
+@import 'base/typography';
+@import 'layout/global';
+@import 'layout/header';
+
+body{
+  margin: 0 auto;
+}
+//header
+
+#header{
+  background-color: #000;
+  height: 1000px;
+}

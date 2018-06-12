@@ -63,18 +63,11 @@ hr {
   margin-bottom: 20px;
   border: 0; }
 
-#menu {
-  padding: 20px;
-  transition: all 0.8s; }
+body {
+  margin: 0 auto; }
 
-#menu.navCustom {
-  background-color: rgba(248, 248, 248, 0);
-  border-color: rgba(231, 231, 231, 0); }
+#header {
+  background-color: #000;
+  height: 1000px; }
 
-#menu a.navbar-brand {
-  font-size: 18px;
-  color: rgba(255, 255, 255, 0.8);
-  font-weight: 500;
-  text-transform: uppercase; }
-
-/*# sourceMappingURL=stylesheet.css.map */
+/*# sourceMappingURL=main.css.map */
